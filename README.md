@@ -1,4 +1,4 @@
-# Freedom Vehicle
+# Lognav Vehicle
 
 Simulation of LOGNAV4.0 project vehicle. Here are all file necessary to run the simulation
 
@@ -21,7 +21,7 @@ git lfs install
 <!-- Now, when you clone this repo, you should also download all the large files with it. -->
 
 ```
-git clone https://github.com/lognav4-0/freedom_vehicle.git
+git clone https://github.com/lognav4-0/lognav_vehicle.git
 ```
 
 ## Installation
@@ -58,7 +58,7 @@ colcon build
 
 ## Simulation
 
-To run the simulation model freedom: 
+To run the simulation model lognav: 
 ```
 ros2 launch lognav_vehicle vehicle_display.launch.py
 ```
